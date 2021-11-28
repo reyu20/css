@@ -1,0 +1,27 @@
+/*Begin here*/
+
+html {
+  font-size: 93.75%;
+}
+.row {
+  padding-left: 2rem;
+}
+.myBtn {
+  border-radius: 6rem;
+  width: 15rem;
+  height: 2.53rem;
+  font-size: 1.2rem;
+  color: #00abe7;
+}
+.myBtn:focus {
+  background-color: black;
+}
+.myBtn1:hover {
+  background-color: black;
+}
+.myBtn2:active {
+  background-color: black;
+}
+.myBtn2:disabled {
+  background-color: black;
+}
